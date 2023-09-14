@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ndsS182d47xytwCcpyGrtg9tmN/MFty798cIS94uBoodTVzVUNuhyiZNYYeVzrEXvgkbPkCyLLKs8tdRh5/OLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\navar\\OneDrive\\Escritorio\\PLRepo\\Functional\\Solution\\Solution-2\\Solution-2.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\navar\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
