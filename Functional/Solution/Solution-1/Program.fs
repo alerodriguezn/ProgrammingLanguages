@@ -10,6 +10,7 @@
         let takeCount = min n length
         let shifted = List.init length (fun i -> if i < length - takeCount then List.nth lista (i + takeCount) else 0)
         shifted
+    
 
 let numList = [1;2;3;4;5]
 
